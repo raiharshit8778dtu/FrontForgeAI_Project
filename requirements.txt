@@ -1,0 +1,8 @@
+langchain-openrouter
+langchain-google-genai
+langchain
+langchain-core
+langchain-community
+python-dotenv
+langgraph
+streamlit
